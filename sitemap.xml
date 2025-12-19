@@ -296,14 +296,14 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/power-automate-ppr/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/power-automate-desktop-unattand-automation/</loc>
     
     <lastmod>2025-12-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/power-automate-desktop-unattand-automation/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/power-automate-ppr/</loc>
     
     <lastmod>2025-12-19</lastmod>
     
@@ -513,6 +513,13 @@
   </url>
   
   <url>
+    <loc>https://jpdynamicscrm.github.io/blog/powerapps/inventory-report/</loc>
+    
+    <lastmod>2025-12-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jpdynamicscrm.github.io/blog/powerapps/helpful-information-for-dataflow-sr/</loc>
     
     <lastmod>2025-12-19</lastmod>
@@ -583,14 +590,14 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/mc435264/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/troubleshooting-general-canvasapp/</loc>
     
     <lastmod>2025-12-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/troubleshooting-general-canvasapp/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/mc435264/</loc>
     
     <lastmod>2025-12-19</lastmod>
     
@@ -604,14 +611,14 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/canvas-app-change-app-owner/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/Canvas-app-monitor/</loc>
     
     <lastmod>2025-12-19</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/Canvas-app-monitor/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/canvas-app-change-app-owner/</loc>
     
     <lastmod>2025-12-19</lastmod>
     
@@ -754,6 +761,20 @@
   
   <url>
     <loc>https://jpdynamicscrm.github.io/blog/tags/Dataflow/</loc>
+    <lastmod>2025-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jpdynamicscrm.github.io/blog/tags/Tenant-level-Analytics/</loc>
+    <lastmod>2025-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jpdynamicscrm.github.io/blog/tags/Inventory-Report/</loc>
     <lastmod>2025-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1133,6 +1154,13 @@
   </url>
   
   <url>
+    <loc>https://jpdynamicscrm.github.io/blog/categories/Dataflow/</loc>
+    <lastmod>2025-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jpdynamicscrm.github.io/blog/categories/Power-Automate/Cloud-flow/</loc>
     <lastmod>2025-12-19</lastmod>
     <changefreq>daily</changefreq>
@@ -1140,7 +1168,7 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/categories/Dataflow/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/categories/Dataverse/</loc>
     <lastmod>2025-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1162,13 +1190,6 @@
   
   <url>
     <loc>https://jpdynamicscrm.github.io/blog/categories/Power-Apps/Model-driven-app/</loc>
-    <lastmod>2025-12-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jpdynamicscrm.github.io/blog/categories/Dataverse/</loc>
     <lastmod>2025-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
