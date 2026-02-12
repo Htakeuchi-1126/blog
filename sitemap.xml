@@ -9,14 +9,14 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/ppac-azure-sr-roles-restriction/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/table-relationship-behavior/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/table-relationship-behavior/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/ppac-azure-sr-roles-restriction/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -30,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/overlapped-dlppolicy/</loc>
-    
-    <lastmod>2026-02-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jpdynamicscrm.github.io/blog/powerplatform/list-connectors-used-by-apps-and-flows/</loc>
     
     <lastmod>2026-02-12</lastmod>
@@ -44,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/for-early-resolution-of-issues/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/overlapped-dlppolicy/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -52,6 +45,13 @@
   
   <url>
     <loc>https://jpdynamicscrm.github.io/blog/powerplatform/ip-range-and-domain/</loc>
+    
+    <lastmod>2026-02-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/for-early-resolution-of-issues/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -135,14 +135,14 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/Notes-when-using-support/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/Output-dlp-policy-connector-list/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/Output-dlp-policy-connector-list/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/Notes-when-using-support/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -206,13 +206,6 @@
   
   <url>
     <loc>https://jpdynamicscrm.github.io/blog/powerplatform/ChangePersonalizationSettings/</loc>
-    
-    <lastmod>2026-02-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerplatform/Block-AI-Builder/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -492,14 +485,14 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/CloudFlow-ErrorHandling/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/CloudFlow-ErrorHandling/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/powerautomate/Execute-PowerShell/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -597,13 +590,6 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/mc435264/</loc>
-    
-    <lastmod>2026-02-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jpdynamicscrm.github.io/blog/canvasapp/sharepoint-image-mobile-issue/</loc>
     
     <lastmod>2026-02-12</lastmod>
@@ -612,6 +598,13 @@
   
   <url>
     <loc>https://jpdynamicscrm.github.io/blog/canvasapp/troubleshooting-general-canvasapp/</loc>
+    
+    <lastmod>2026-02-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/mc435264/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -632,14 +625,14 @@
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/Canvas-app-monitor/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/Canvas-app-delegation/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/Canvas-app-delegation/</loc>
+    <loc>https://jpdynamicscrm.github.io/blog/canvasapp/Canvas-app-monitor/</loc>
     
     <lastmod>2026-02-12</lastmod>
     
@@ -936,13 +929,6 @@
   
   <url>
     <loc>https://jpdynamicscrm.github.io/blog/tags/Dataverse-for-Teams/</loc>
-    <lastmod>2026-02-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jpdynamicscrm.github.io/blog/tags/AI-Builder/</loc>
     <lastmod>2026-02-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
